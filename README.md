@@ -69,4 +69,4 @@ Download the datasets from here:
 
 # Slides
 
-Slides are available at [bit.ly/ep2015-ml-tutorial](bit.ly/ep2015-ml-tutorial)
+Slides are available at [http://bit.ly/ep2015-ml-tutorial](http://bit.ly/ep2015-ml-tutorial)
