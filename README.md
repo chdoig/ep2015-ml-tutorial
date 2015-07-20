@@ -11,11 +11,7 @@ cd ep2015-ml-tutorial
 - **Option A: Anaconda**
 
 If you don't have Anaconda installed, you can install it from [here](https://store.continuum.io/cshop/anaconda/).
-After following the instructions, you should be ready to go. Check it with:
-
-```
-python check_env.py
-```
+After following the instructions, you should be ready to go. 
 
 If you already have Anaconda installed, make sure to update both conda and the dependencies 
 to the latest versions, by running:
@@ -24,8 +20,10 @@ to the latest versions, by running:
 conda update conda
 conda install pandas
 conda install scikit-learn
-conda install nltk
+conda install numpy
 conda install ipython
+conda install matplotlib
+conda install seaborn
 conda install ipython-notebook
 ```
 
@@ -60,7 +58,7 @@ activate ep-ml
 
 - **Option C: Alternative setup**
 
-Install the following dependencies: pandas, nltk, scikit-learn, ipython, ipython-notebook
+Install the following dependencies: pandas, numpy, scikit-learn, matplotlib, seaborn, ipython, ipython-notebook
 
 # Data
 
@@ -71,5 +69,4 @@ Download the datasets from here:
 
 # Slides
 
-
-# Notebooks
+Slides are available at [bit.ly/ep2015-ml-tutorial](bit.ly/ep2015-ml-tutorial)
