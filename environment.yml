@@ -1,0 +1,9 @@
+name: ep-ml
+dependencies:
+    - pandas
+    - numpy
+    - scikit-learn
+    - ipython
+    - ipython-notebook
+    - matplotlib
+    - seaborn
